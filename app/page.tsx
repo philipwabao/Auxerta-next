@@ -271,13 +271,9 @@
                   <div className="hero-annotation-body">
                     <div className="hero-annotation-image">
                       <div className="hero-layers">
-                        <div className="hero-layer hero-layer-1" />
-                        <div className="hero-layer hero-layer-2" />
-                        <div className="hero-layer hero-layer-3" />
                       </div>
                       <div className="hero-box hero-box-primary" />
                       <div className="hero-box hero-box-secondary" />
-                      <div className="hero-scan-line" />
                       <div className="hero-flow hero-flow-top" />
                       <div className="hero-flow hero-flow-bottom" />
                     </div>
